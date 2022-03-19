@@ -1,0 +1,46 @@
+Github :
+
+Github is a source code repository.
+version control system
+incremented order
+
+for every change there is a unique commit id is getting generated.
+
+change : one file change/multiple files change
+
+
+build : source code : free text
+
+Pre-Requisite:
+1. Create a 2 Github account with 2 different gmail id's.
+2. Create a Repository
+3. Add a file
+4. PERform changes
+5. Review the commit id
+
+
+Github workflow:
+===============
+main branch
+		+--->copy of the main (modify_files)
+					+----		Add/delete/modify the lines of a file
+					+----               commit
+					+----		Raise a Pull-Request (PR for comparing Branches) to compare the (modify_files branch to main branch)
+					+----		Assign to a reviewer
+					+---			Approve/Reject/Request for comments
+					+---			merge the (modify_files branch to main branch)
+					+---			delete modify_files branch
+
+main 
+
+
+
+
+
+
+
+
+
+
+
+
