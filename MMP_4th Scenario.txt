@@ -1,4 +1,4 @@
 US_004_EditProfile.java
 1. Editing the weight should display the updated value
 2. All the other fields should have the old value
-Add the assertions to validate the values.
+
